@@ -21,11 +21,8 @@ COURTNO = {
     "FHS1": 1, "FHS2": 2, "FHS3": 3, "FHS4": 4}
 
 # account details
-# UID = "calexlam"
-# PASSWORD = "al26529833"
-
-UID = "u3560501"
-PASSWORD = "Cyanidebattery12"
+UID = "********"
+PASSWORD = "********"
 
 #---------------------------------------------------------------------------------------
 # functions
