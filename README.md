@@ -1,6 +1,6 @@
-# Foobar
+# HKUCSE_Captcha_Breaking
 
-HKUCSE is a program used to automatically book courts through HKUCSE bypassing the captcha with image recognition CNN
+HKUCSE_Captcha_Breaking is a program used to automatically book courts through HKUCSE bypassing the captcha with image recognition CNN
 
 ## Installation
 
