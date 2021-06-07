@@ -14,3 +14,7 @@ Run main.py to book court
 ```bash
 python main.py
 ```
+
+## Demonstration
+
+The mp4 video shows a demonstration of the booking
